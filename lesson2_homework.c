@@ -209,6 +209,6 @@ void main(){
     //Program4();
     //Program5();
     //Program6();
-    Program7();
+    //Program7();
     while(1) P1=0xff;
 }
